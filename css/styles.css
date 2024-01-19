@@ -583,7 +583,7 @@ img {
 
 .is-active {
   position: relative;
-  color: var(--ocean);
+  color: var(--color-ocean);
   transition-property: color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -596,7 +596,7 @@ img {
   left: 0;
   bottom: -1px;
   height: 4px;
-  background-color: var(--ocean);
+  background-color: var(--color-ocean);
   border-radius: 2px;
 }
 
